@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 class Arduino(models.Model):
-    id_station = models.CharField(max_length=8, unique=True)
+    id_station = models.CharField(max_length=8, primary_key=True)
     model_arduino = models.CharField(max_length=50)
     lat = models.CharField(max_length=50)
     lon = models.CharField(max_length=50)
