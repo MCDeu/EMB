@@ -1,7 +1,14 @@
 from rest_framework import serializers
-from .models import Data
+from .models import Data, Arduino
+
+
+class ArduinoSerializer(serializers.ModelSerializer):
+    class Meta:
+        fields = ('id_station', 'model_arduino', 'lat', 'lon', 'country', 'region', 'owner')
+        model = Arduino
+
 
 class DataSerializer(serializers.ModelSerializer):
     class Meta:
-        fields = ('ID_Arduino', 'dia', 'latitud', 'longitud', 'temperatura', 'pressio', 'pluja',  'humitat_aire', 'humitat_terrestre', 'velocitat_vent', 'direccio_vent')
+        fields = ('id_station', 'day', 'temperature', 'press', 'rain',  'air_humidity', 'wind_speed', 'wind_direction')
         model = Data

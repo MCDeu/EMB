@@ -9,9 +9,9 @@ from django_tables2.views import SingleTableMixin
 from django.views.generic import ListView
 #from graphos.sources.modle import ModelDataSource
 
-from .models import Data
+from .models import Data, Arduino
 from .tables import DataTable
-from .serializers import DataSerializer
+from .serializers import DataSerializer, ArduinoSerializer
 
 # Create your views here.
 
@@ -28,3 +28,7 @@ class FileredDataView(SingleTableMixin, FilterView):
 		table_calss = DataTable
 		model = Data
 		template_name = 'filter.html'
+		
+class ArduinoList(generics.ListCreateAPIView):
+    queryset = Arduino.objects.all()
+    serializer_class = ArduinoSerializer

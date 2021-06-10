@@ -1,9 +1,10 @@
 from django.urls import path
 
-from .views import DataList, DataTable, FileredDataView
+from .views import DataList, DataTable, FileredDataView, ArduinoList
 
 urlpatterns = [
-    path('updatedades/', DataList.as_view()),
-    path('viewdades/', DataTable.as_view()),
-    path('filterdades/', FileredDataView.as_view()),
+    path('dades/update/', DataList.as_view()),
+    path('dades/view/', DataTable.as_view()),
+    path('dades/filter/', FileredDataView.as_view()),
+    path('station/update/', ArduinoList.as_view()),
 ]

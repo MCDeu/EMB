@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-cgyb#pt9=hdn_x6*5k8mz!wt4lxtcocpm%nwtmtp-39d&n^y2&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", "0.0.0.0", "[::1]", "fa9ded1efaff.ngrok.io"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "0.0.0.0", "[::1]", "c0a2c23f709d.ngrok.io"]
 
 
 # Application definition
@@ -52,7 +52,7 @@ INSTALLED_APPS = [
     # Local
     #'dades.apps.DadesConfig',
     'data.apps.DataConfig',
-    'Pages.apps.PagesConfig',
+    #'Pages.apps.PagesConfig',
 ]
 
 REST_FRAMEWORK = {
@@ -150,3 +150,5 @@ STATIC_URL = '/static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 DATETIME_FORMAT="%Y-%m-%d %H:%M:%S"
+
+APPEND_SLASH=False 
