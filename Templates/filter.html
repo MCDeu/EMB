@@ -1,6 +1,13 @@
 {% load render_table from django_tables2 %}
 {% load bootstrap3 %}
 
+<!doctype html>
+<html>
+    <head>
+        <title>FILTER</title>
+    </head>
+</html>
+
 {% if filter %}
     <form action="" method="get" class="form form-inline">
         {% bootstrap_form filter.form layout='inline' %}
