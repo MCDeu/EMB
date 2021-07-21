@@ -32,3 +32,7 @@ class FileredDataView(SingleTableMixin, FilterView):
 class ArduinoList(generics.ListCreateAPIView):
     queryset = Arduino.objects.all()
     serializer_class = ArduinoSerializer
+
+class ArduinoListDestroy(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Arduino.objects.all()
+    serializer_class = ArduinoSerializer
