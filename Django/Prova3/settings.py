@@ -44,10 +44,8 @@ INSTALLED_APPS = [
     # 3rd part
     'rest_framework', 
     'crispy_forms',
-    'bootstrap5',
     'django_tables2',
     'django_filters',
-    'bootstrap3',
     
     # Local
     #'dades.apps.DadesConfig',
