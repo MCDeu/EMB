@@ -7,11 +7,10 @@ from datetime import datetime
 class Arduino(models.Model):
     id_station = models.CharField(max_length=8, primary_key=True)
     model_arduino = models.CharField(max_length=50)
-    lat = models.CharField(max_length=50)
-    lon = models.CharField(max_length=50)
     country = models.CharField(max_length=50)
     region = models.CharField(max_length=50)
     owner = models.CharField(max_length=50)
+    coordinates = models.CharField(max_length=250)
 
 class Data(models.Model):
     id_station = models.ForeignKey('Arduino', on_delete=models.CASCADE)

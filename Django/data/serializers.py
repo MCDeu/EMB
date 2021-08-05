@@ -4,7 +4,7 @@ from .models import Data, Arduino
 
 class ArduinoSerializer(serializers.ModelSerializer):
     class Meta:
-        fields = ('id_station', 'model_arduino', 'lat', 'lon', 'country', 'region', 'owner')
+        fields = ('id_station', 'model_arduino',  'country', 'region', 'owner', 'coordinates')
         model = Arduino
 
 
