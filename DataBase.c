@@ -6,20 +6,19 @@
 #define SAMPLE_LEN 2928
 int main(void) {
 
-	time_t t;
+  time_t t;
   int temperatura;
   int pressio;
   int pluja;
   int humitat_aire;
-  int humitat_terra;
   int velocitat_vent;
   char direccions[2];
   int direccio_vent;
-	int minut = 0;
-	int hora = 00;
-	int dia = 1;
-	int mes = 5;
-	char fecha[16];
+  int minut = 0;
+  int hora = 0;
+  int dia = 1;
+  int mes = 5;
+  char fecha[16];
 
 	
 	srand((unsigned) time(&t));
@@ -129,7 +128,8 @@ int main(void) {
 			headers = curl_slist_append(headers, "Content-Type: application/json");
 			curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
 			char *data;
-			sprintf(data, "{\r\n  \"ID_Arduino\": \"01000001\",\r\n  \"day\": \"%i\",\r\n  \"temperature\": \"%i\",\r\n  \"press\": \"%i\",\r\n  \"rain\": \"%i\",\r\n  \"air_humidity\": \"%i\",\r\n \"wind_speed\": \"%i\",\r\n  \"wind_direction\": \"%s\"\r\n}\r\n", fecah, temperatura, pressio, pluja, humitat_aire, velocitat_vent, direccions);
+			sprintf(data, "{\r\n  \"ID_Arduino\": \"01000001\",\r\n  \"day\": \"%s\",\r\n  \"temperature\": \"%i\",\r\n  \"press\": \"%i\",\r\n  \"rain\": \"%i\",\r\n  \"air_humidity\": \"%i\",\r\n \"wind_speed\": \"%i\",\r\n  \"wind_direction\": \"%s\"\r\n}\r\n", fecha, temperatura, pressio, pluja, humitat_aire, velocitat_vent, direccions);
+			printf(data);
 			curl_easy_setopt(curl, CURLOPT_POSTFIELDS, data);
 			res = curl_easy_perform(curl);
 		}
@@ -137,7 +137,7 @@ int main(void) {
   }
 	
 	for(int i = 0; i < SAMPLE_LEN; i++){
-	
+		printf("Entra al for");
 		check_data();
 		minut+=30;
 		
@@ -145,6 +145,7 @@ int main(void) {
 		adjust_pluja();
 		adjust_pressio();
 		adjust_humitatAire();
+		adjust_direccioVent();
 		
 		velocitat_vent = rand() % 24 + 2;
 		
