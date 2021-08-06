@@ -36,3 +36,21 @@ class ArduinoList(generics.ListCreateAPIView):
 class ArduinoListDestroy(generics.RetrieveUpdateDestroyAPIView):
     queryset = Arduino.objects.all()
     serializer_class = ArduinoSerializer
+
+def present(request):
+    LoadConfigFile()
+    if request.method == 'POST':
+        if request.POST.get("Submit") == "Submit":
+            cleanVerbose()
+            writeVerbose('Expect several minutes to complete...')
+            run_present(request)
+        if request.POST.get("Stop") == "Stop":
+            stop_thread()
+
+    return render(request, 'present.html', {})
+
+def run_present(request):
+    region = GetRegionFromFile(request.POST.get('region'))
+    GenerateRealTimeKML(region)
+    sendKmlToLGCommon(global_vars.kml_destination_filename)
+    flyToRegion(region)

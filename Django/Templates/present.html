@@ -1,0 +1,97 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<!--
+    <link rel="stylesheet" type="text/css" href="{% static 'styles/style.css' %}">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	-->
+    <head>
+        <title>Electronics Monitor Board</title>
+    </head>
+	<!--
+    <body>
+        <div class="header">
+            <div class="head_logo">
+                <a href="/"><img src="{% static 'logos/SF-logo.png' %}" class="logo2"></a>
+            </div>
+            <div class="head_banner">
+                <img src="{% static 'img/marine_temp_header.jpg' %}" class="header_img">
+            </div>
+        </div>
+	-->
+        <h1>Real time visualization</h1>
+        <div class="container">
+            <div>
+                {% include "./canvas.html" %}
+            </div>
+            <div>
+                <form action="{% url 'present' %}" method="POST" id="formKML" name="GenerateKML" onsubmit="return onSubmit();">
+                    {% csrf_token %}
+					<label for="Field">Choose a Filed:</label>
+					<select name="Field" id="Filed">
+						<optgroup label="Brazil">
+							<option value="Sao Pablo">Sao Pablo</option>
+							<option value="Rondonia">Rondonia</option>
+							<option value="Cearà">Cearà</option>
+						</optgroup>
+						<optgroup label="Spain">
+							<option value="Lleida">Lleida</option>
+							<option value="Sevilla">Sevilla</option>
+							<option value="Madrid">Madrid</option>
+						</optgroup>
+						<optgroup label="Japan">
+							<option value="Hiroshima">Hiroshima</option>
+							<option value="Nagoya">Nagoya</option>
+							<option value="Hokkaidō">Hokkaidō</option>
+						</optgroup>
+					</select>
+					
+					<br><br>
+					
+					<label for="Day">Choose a Day:</label>
+					<input type="date" id="Day" name="Day" min="2021-05-01" max="2021-06-30">
+					
+					<label for="Day">Choose a hour and a minute:</label>
+					<select name="Hour" id="Hour">
+						<option value="00">00</option>
+						<option value="01">01</option>
+						<option value="02">02</option>						
+						<option value="03">03</option>
+						<option value="04">04</option>
+						<option value="05">05</option>						
+						<option value="06">06</option>
+						<option value="07">07</option>
+						<option value="08">08</option>
+						<option value="09">08</option>
+						<option value="10">08</option>
+						<option value="11">08</option>
+						<option value="12">08</option>
+						<option value="13">08</option>
+						<option value="14">08</option>
+						<option value="15">08</option>
+						<option value="16">08</option>
+						<option value="17">08</option>
+						<option value="18">08</option>
+						<option value="19">08</option>
+						<option value="20">08</option>
+						<option value="21">08</option>
+						<option value="22">08</option>
+						<option value="23">08</option>
+					</select>	
+
+					<b>:</b>
+					
+					<select name="Minute" id="Minute">
+						<option value="00">00</option>
+						<option value="30">30</option>
+					</select>
+					
+					<br><br>
+					<input type="submit" value="Submit">
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
