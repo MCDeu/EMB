@@ -7,6 +7,8 @@ def GetDate(day, hour, minute):
     date = day + "T" + hour + minute
     return date
 
+
+"""
 def GetIdFromCity(city):
     for row in cur.execute("SELECT id_station FROM data_arduino WHERE region = ?", (city))
     
@@ -16,7 +18,9 @@ def GetCoordinatesFromId(Id_station):
     for row in cur.execute("SELECT coordinates FROM data_arduino WHERE id_station = ?", Id_station)
     
     return row[0]
-    
+ 
+
+
 def GetDataFromId(Id_station, day):
     for row in cur.execute("SELECT temperature FROM data_data WHERE id_station_id = ? AND day = ?", Id_station, day)
         temp = int(row[0])
@@ -39,3 +43,4 @@ def GetDataFromId(Id_station, day):
     data = [temp, pres, rainn, air, speed, direction]
     
     return data
+"""
