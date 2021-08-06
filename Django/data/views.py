@@ -12,6 +12,9 @@ from django.views.generic import ListView
 from .models import Data, Arduino
 from .tables import DataTable
 from .serializers import DataSerializer, ArduinoSerializer
+from .utils import *
+from .GenerateKML import *
+from .ManageData import *
 
 # Create your views here.
 
@@ -38,11 +41,9 @@ class ArduinoListDestroy(generics.RetrieveUpdateDestroyAPIView):
     serializer_class = ArduinoSerializer
 
 def present(request):
-    LoadConfigFile()
+    #LoadConfigFile()
     if request.method == 'POST':
         if request.POST.get("Submit") == "Submit":
-            cleanVerbose()
-            writeVerbose('Expect several minutes to complete...')
             run_present(request)
         if request.POST.get("Stop") == "Stop":
             stop_thread()
@@ -50,7 +51,17 @@ def present(request):
     return render(request, 'present.html', {})
 
 def run_present(request):
-    region = GetRegionFromFile(request.POST.get('region'))
-    GenerateRealTimeKML(region)
-    sendKmlToLGCommon(global_vars.kml_destination_filename)
-    flyToRegion(region)
+    city=request.POST.get('Field')
+    day=request.POST.get('Day')
+    hour=request.POST.get('Hour')
+    minute=request.POST.get('Minute')
+    
+    date = GetDate(day,hour,minute)
+    id_station = GetIdFromCity(city)
+    coordinades = GetCoordinatesFromId(id_station)
+    data = GetDataFromId(id_station,data)
+    
+    CreateKML(data, coordinades)
+    
+    #sendKmlToLGCommon(global_vars.kml_destination_filename)
+    #flyToRegion(region)
