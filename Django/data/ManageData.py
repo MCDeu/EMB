@@ -5,7 +5,6 @@ cur = con.cursor()
 
 def GetDate(day, hour, minute):
     date = day + " " + hour + ":" + minute + ":00"
-    print(date)
     return date
 
 
