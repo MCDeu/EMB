@@ -56,7 +56,7 @@ def CreateKML(data, coordiantes):
     )
     )
     
-    f = open("destination.kml", "w")
+    f = open("data/static/destination.kml", "w")
     out = etree.tostring(kml, pretty_print=True).decode("utf-8")
     f.write(out)
     f.close()

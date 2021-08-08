@@ -1,0 +1,44 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Placemark>
+      <name>Weather</name>
+      <ExtendedData>
+        <Data name="Temperature:">
+          <value>9</value>
+        </Data>
+        <Data name="Press:">
+          <value>103058</value>
+        </Data>
+        <Data name="Humidity:">
+          <value>0</value>
+        </Data>
+        <Data name="Wind speed:">
+          <value>44</value>
+        </Data>
+        <Data name="Wind direction:">
+          <value>14</value>
+        </Data>
+        <Data name="Precipitation:">
+          <value>SE</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>46.78111634147689,-23.59393814020231 -46.78261005616155,-23.59562932278232 -46.78210681119049,-23.59612281299078 -46.7806142836729,-23.59418262692097</coordinates>
+          </LinearRing>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <BalloonStyle>
+          <bgColor>ff88F452</bgColor>
+        </BalloonStyle>
+        <PolyStyle>
+          <color>ff0000ff</color>
+        </PolyStyle>
+      </Style>
+      <gx:balloonVisibility>1</gx:balloonVisibility>
+    </Placemark>
+  </Document>
+</kml>

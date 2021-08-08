@@ -1,26 +1,24 @@
 {% load static %}
 <!DOCTYPE html>
 <html>
-<!--
-    <link rel="stylesheet" type="text/css" href="{% static 'styles/style.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-	-->
     <head>
         <title>Electronics Monitor Board</title>
     </head>
-	<!--
     <body>
         <div class="header">
             <div class="head_logo">
-                <a href="/"><img src="{% static 'logos/SF-logo.png' %}" class="logo2"></a>
+                <a href="/"><img src="{% static 'Logos.png' %}" class="logo"></a>
             </div>
+	<!--
             <div class="head_banner">
                 <img src="{% static 'img/marine_temp_header.jpg' %}" class="header_img">
             </div>
-        </div>
 	-->
+        </div>
         <h1>Field selection</h1>
 		<form action="{% url 'present' %}" method="POST" id="formKML" name="GenerateKML" onsubmit="return onSubmit();">
 			{% csrf_token %}
