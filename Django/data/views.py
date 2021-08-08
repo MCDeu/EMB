@@ -59,7 +59,7 @@ def run_present(request):
     date = GetDate(day,hour,minute)
     id_station = GetIdFromCity(city)
     coordinades = GetCoordinatesFromId(id_station)
-    data = GetDataFromId(id_station,data)
+    data = GetDataFromId(id_station,date)
     
     CreateKML(data, coordinades)
     

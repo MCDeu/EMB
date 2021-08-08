@@ -39,15 +39,16 @@ def CreateKML(data, coordiantes):
                 KML.outerBoundaryIs(
                     KML.LinearRing(
                         KML.coordinates(coordiantes)
-                    )
+                    ),
+                    KML.altitudeMode("relativeToGround")
                 )
             ),
             KML.Style(
                 KML.BalloonStyle(
-                    KML.bgColor(ff88F452)
+                    KML.bgColor("ff88F452")
                 ),
                 KML.PolyStyle(
-                    KML.color(ff0000ff)
+                    KML.color("ff0000ff")
                 )
             ),
             GX.balloonVisibility(1)
@@ -55,7 +56,7 @@ def CreateKML(data, coordiantes):
     )
     )
     
-    f = open(destination.kml, "w")
+    f = open("destination.kml", "w")
     out = etree.tostring(kml, pretty_print=True).decode("utf-8")
     f.write(out)
     f.close()
