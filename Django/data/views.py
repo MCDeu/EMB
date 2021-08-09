@@ -50,6 +50,16 @@ def select(request):
             stop_thread()
 
     return render(request, 'select.html', {})
+    
+def demo(request):
+    LoadConfigFile()
+    if request.method == 'POST':
+        if request.POST.get("Submit") == "Submit":
+            run_select(request)
+        if request.POST.get("Stop") == "Stop":
+            stop_thread()
+
+    return render(request, 'demo.html', {})
 
 def run_select(request):
     id_station=request.POST.get('Id_Station')
