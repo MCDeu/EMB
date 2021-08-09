@@ -4,28 +4,28 @@
       <name>Weather</name>
       <ExtendedData>
         <Data name="Temperature:">
-          <value>12</value>
+          <value>13</value>
         </Data>
-        <Data name="Press:">
-          <value>101545</value>
+        <Data name="Pressure:">
+          <value>99546</value>
         </Data>
         <Data name="Precipitation:">
-          <value>0</value>
+          <value>6</value>
         </Data>
         <Data name="Humidity:">
-          <value>67</value>
+          <value>72</value>
         </Data>
         <Data name="Wind speed:">
-          <value>16</value>
+          <value>22</value>
         </Data>
         <Data name="Wind direction:">
-          <value>E</value>
+          <value>S</value>
         </Data>
       </ExtendedData>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>141.3361193235152,43.07779261653624 141.3327126483805,43.07612247218059 141.3338938173467,43.07476494257998 141.3373464699531,43.076389547372</coordinates>
+            <coordinates>0.6319690811210660,41.59547909097990 0.6315369831952267,41.594824528186 0.6327479275134462,41.59434741863209 0.6332509441594025,41.59506471695525</coordinates>
           </LinearRing>
           <altitudeMode>relativeToGround</altitudeMode>
         </outerBoundaryIs>

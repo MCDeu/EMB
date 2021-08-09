@@ -1,0 +1,27 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <head>
+        <title>Electronics Monitor Board - PRINCIPAL</title>
+    </head>
+    <body>
+        <div class="header">
+            <div class="head_logo">
+                <img src="{% static 'Logos.png' %}" class="logo">
+            </div>
+        </div>
+		
+		<form action="{% url 'principal' %}">
+			<button onclick="window.location.href='http://localhost:8000/api/select/';">
+			  SELECT
+			</button>
+			<button onclick="http://localhost:8000/api/demo/">
+			  DEMO
+			</button>
+		</form>
+	</body>
+</html>

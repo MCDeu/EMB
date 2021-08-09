@@ -9,8 +9,8 @@ def GetDate(day, hour, minute):
 
 
 
-def GetIdFromCity(city):
-    for row in cur.execute("SELECT id_station FROM data_arduino WHERE region = ?", (city,)):
+def GetCityFromId(Id_station):
+    for row in cur.execute("SELECT region FROM data_arduino WHERE id_station = ?", (Id_station,)):
     
         return row[0]
     

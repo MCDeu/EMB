@@ -6,12 +6,12 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <head>
-        <title>Electronics Monitor Board</title>
+        <title>Electronics Monitor Board - SELECTION</title>
     </head>
     <body>
         <div class="header">
             <div class="head_logo">
-                <a href="/"><img src="{% static 'Logos.png' %}" class="logo"></a>
+                <img src="{% static 'Logos.png' %}" class="logo">
             </div>
 	<!--
             <div class="head_banner">
@@ -20,24 +20,24 @@
 	-->
         </div>
         <h1>Field selection</h1>
-		<form action="{% url 'present' %}" method="POST" id="formKML" name="GenerateKML" onsubmit="return onSubmit();">
+		<form action="{% url 'select' %}" method="POST" id="formKML" name="GenerateKML" onsubmit="return onSubmit();">
 			{% csrf_token %}
-			<label for="Field">Choose a Filed:</label>
-			<select name="Field" id="Filed">
+			<label for="Id_Station">Choose a Filed:</label>
+			<select name="Id_Station" id="Id_Station">
 				<optgroup label="Brazil">
-					<option value="Sao Pablo">Sao Pablo</option>
-					<option value="Rondonia">Rondonia</option>
-					<option value="Cearà">Cearà</option>
+					<option value="01000000">Sao Pablo - 01000000</option>
+					<option value="00100001">Rondonia - 00100001</option>
+					<option value="00100011">Cearà - 00100011</option>
 				</optgroup>
 				<optgroup label="Spain">
-					<option value="Lleida">Lleida</option>
-					<option value="Sevilla">Sevilla</option>
-					<option value="Madrid">Madrid</option>
+					<option value="01000001">Lleida - 01000001</option>
+					<option value="01001001">Sevilla - 01001001</option>
+					<option value="01011000">Madrid - 01011000</option>
 				</optgroup>
 				<optgroup label="Japan">
-					<option value="Hiroshima">Hiroshima</option>
-					<option value="Nagoya">Nagoya</option>
-					<option value="Hokkaidō">Hokkaidō</option>
+					<option value="01010111">Hiroshima - 01010111</option>
+					<option value="01100000">Nagoya - 01100000</option>
+					<option value="01100001">Hokkaidō - 01100001</option>
 				</optgroup>
 			</select>
 			

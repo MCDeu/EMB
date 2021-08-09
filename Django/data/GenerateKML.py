@@ -16,7 +16,7 @@ def CreateKML(data, coordiantes):
                 ),
                 KML.Data(
                     KML.value(data[1]),
-                    name="Press:"
+                    name="Pressure:"
                 ),
                 KML.Data(
                     KML.value(data[2]),
