@@ -20,19 +20,19 @@ def CreateKML(data, coordiantes):
                 ),
                 KML.Data(
                     KML.value(data[2]),
-                    name="Humidity:"
+                    name="Precipitation:"
                 ),
                 KML.Data(
                     KML.value(data[3]),
-                    name="Wind speed:"
+                    name="Humidity:"
                 ),
                 KML.Data(
                     KML.value(data[4]),
-                    name="Wind direction:"
+                    name="Wind speed:"
                 ),
                 KML.Data(
                     KML.value(data[5]),
-                    name="Precipitation:"
+                    name="Wind direction:"
                 )
             ),
             KML.Polygon(
