@@ -4,22 +4,22 @@
       <name>Weather</name>
       <ExtendedData>
         <Data name="Temperature:">
-          <value>17</value>
+          <value>15</value>
         </Data>
         <Data name="Pressure:">
-          <value>100500</value>
+          <value>102092</value>
         </Data>
         <Data name="Precipitation:">
-          <value>10</value>
+          <value>0</value>
         </Data>
         <Data name="Humidity:">
-          <value>71</value>
+          <value>50</value>
         </Data>
         <Data name="Wind speed:">
-          <value>2</value>
+          <value>25</value>
         </Data>
         <Data name="Wind direction:">
-          <value>SE</value>
+          <value>NE</value>
         </Data>
       </ExtendedData>
       <Polygon>

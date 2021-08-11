@@ -22,7 +22,7 @@ def sendKmlToLG(main, slave):
     print(command)
     os.system(command)
 
-    msg = "http://" + global_vars.lg_IP + ":81/EMB/" + global_vars.kml_destination_filename.replace("/", "\/") + "?id=" + str(int(time()*100))
+    msg = "http:\/\/" + global_vars.lg_IP + ":81\/\SF\/" + global_vars.kml_destination_filename.replace("/", "\/") + "?id=" + str(int(time()*100))
     command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \
         + " \"sed -i \'1s/.*/" + msg + "/\' /var/www/html/kmls.txt\""
     print(command)
