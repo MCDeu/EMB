@@ -69,9 +69,11 @@ def run_select(request):
     
     date = GetDate(day,hour,minute)
     coordinades = GetCoordinatesFromId(id_station)
+    region = coordinates[0:20]
+    print(region)
     data = GetDataFromId(id_station,date)
     
     CreateKML(data, coordinades)
     
-    #sendKmlToLGCommon(global_vars.kml_destination_filename)
+    sendKmlToLGCommon(global_vars.kml_destination_filename)
     #flyToRegion(region)
