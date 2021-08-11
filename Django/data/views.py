@@ -68,12 +68,13 @@ def run_select(request):
     minute=request.POST.get('Minute')
     
     date = GetDate(day,hour,minute)
-    coordinades = GetCoordinatesFromId(id_station)
-    region = coordinates[0:20]
+    coordinates = GetCoordinatesFromId(id_station)
+    regions = coordinates.split()
+    region = regions[0]
     print(region)
     data = GetDataFromId(id_station,date)
     
-    CreateKML(data, coordinades)
+    CreateKML(data, coordinates)
     
     sendKmlToLGCommon(global_vars.kml_destination_filename)
     #flyToRegion(region)

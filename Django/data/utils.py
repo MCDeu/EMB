@@ -1,6 +1,6 @@
 import itertools
 import os
-#from seasight_forecasting import global_vars
+from data import global_vars
 from threading import Thread
 from time import sleep, time
 
@@ -17,12 +17,12 @@ def blankKML(id):
 
 def sendKmlToLG(main, slave):
     command = "sshpass -p " + global_vars.lg_pass + " scp $HOME/" + global_vars.project_location \
-        + "Seasight-Forecasting/django/" + global_vars.kml_destination_path + main \
-        + " " + global_vars.lg_IP + ":/var/www/html/SF/" + global_vars.kml_destination_filename
+        + "EMB/Django/" + global_vars.kml_destination_path + main \
+        + " " + global_vars.lg_IP + ":/var/www/html/EMB/" + global_vars.kml_destination_filename
     print(command)
     os.system(command)
 
-    msg = "http:\/\/" + global_vars.lg_IP + ":81\/\SF\/" + global_vars.kml_destination_filename.replace("/", "\/") + "?id=" + str(int(time()*100))
+    msg = "http://" + global_vars.lg_IP + ":81/EMB/" + global_vars.kml_destination_filename.replace("/", "\/") + "?id=" + str(int(time()*100))
     command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \
         + " \"sed -i \'1s/.*/" + msg + "/\' /var/www/html/kmls.txt\""
     print(command)
@@ -82,12 +82,12 @@ def generateOrbitFile(content, path):
 
 def sendOrbitToLG():
     command = "sshpass -p " + global_vars.lg_pass + " scp $HOME/" + global_vars.project_location \
-        + "Seasight-Forecasting/django/" + global_vars.kml_destination_path + "orbit.kml " + global_vars.lg_IP + ":/var/www/html/SF/orbit.kml"
+        + "EMB/Django/" + global_vars.kml_destination_path + "orbit.kml " + global_vars.lg_IP + ":/var/www/html/EMB/orbit.kml"
     print(command)
     os.system(command)
 
     command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \
-        + " \"echo http://" + global_vars.lg_IP + ":81/SF/orbit.kml?id=" + str(int(time()*100)) \
+        + " \"echo http://" + global_vars.lg_IP + ":81/EMB/orbit.kml?id=" + str(int(time()*100)) \
         + " >> /var/www/html/kmls.txt\""
     print(command)
     os.system(command)
@@ -135,7 +135,7 @@ def setLogo():
     kml += '\n   ' + '<ScreenOverlay>'
     kml += '\n    ' + '<name>Logo</name>'
     kml += '\n    ' + '<Icon>'
-    kml += '\n     ' + '<href>http://lg1:81/SF/Logos.png</href>'.format(global_vars.server_IP)
+    kml += '\n     ' + '<href>http://lg1:81/EMB/Logos.png</href>'.format(global_vars.server_IP)
     kml += '\n    ' + '</Icon>'
     kml += '\n    ' + '<overlayXY x=\\\"0\\\" y=\\\"1\\\" xunits=\\\"fraction\\\" yunits=\\\"fraction\\\"/>'
     kml += '\n    ' + '<screenXY x=\\\"0.02\\\" y=\\\"0.98\\\" xunits=\\\"fraction\\\" yunits=\\\"fraction\\\"/>'
