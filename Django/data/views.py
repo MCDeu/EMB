@@ -77,4 +77,4 @@ def run_select(request):
     CreateKML(data, coordinates)
     
     sendKmlToLGCommon(global_vars.kml_destination_filename)
-    #flyToRegion(region)
+    flyToRegion(region)

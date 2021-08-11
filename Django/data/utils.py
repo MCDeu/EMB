@@ -22,7 +22,7 @@ def sendKmlToLG(main, slave):
     print(command)
     os.system(command)
 
-    msg = "http:\/\/" + global_vars.lg_IP + ":81\/\SF\/" + global_vars.kml_destination_filename.replace("/", "\/") + "?id=" + str(int(time()*100))
+    msg = "http:\/\/" + global_vars.lg_IP + ":81\/\EEMB\/" + global_vars.kml_destination_filename.replace("/", "\/") + "?id=" + str(int(time()*100))
     command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \
         + " \"sed -i \'1s/.*/" + msg + "/\' /var/www/html/kmls.txt\""
     print(command)
@@ -67,7 +67,7 @@ def createRotation(lat, lon, alt, tilt, range1):
         xml += '\n\t\t\t\t'+'<tilt>'+str(tilt)+'</tilt>'
         xml += '\n\t\t\t\t'+'<gx:fovy>35</gx:fovy>'
         xml += '\n\t\t\t\t'+'<range>'+str(range1)+'</range>'
-        xml += '\n\t\t\t\t'+'<gx:altitudeMode>absolute</gx:altitudeMode>'
+        xml += '\n\t\t\t\t'+'<gx:altitudeMode>relativeToGround</gx:altitudeMode>'
         xml += '\n\t\t\t'+'</LookAt>'
         xml += '\n\t\t'+'</gx:FlyTo>'
 
@@ -108,12 +108,18 @@ def doRotation(latitude, longitude, altitude, pRange):
     sendOrbitToLG()
     sleep(1)
     startOrbit()
+    
+def getCenterOfRegion(region):
+    regions = region.split(',')
+    lon = regions[0]
+    lat = regions[1]
+    return lat, lon    
 
 def flyToRegion(region):
     center_lat, center_lon = getCenterOfRegion(region)
-    sendFlyToToLG(center_lat, center_lon, 15000, 0, 0, 6000000, 2)
+    sendFlyToToLG(center_lat, center_lon, 150, 0, 0, 6000000, 2)
     sleep(4)
-    doRotation(center_lat, center_lon, 15000, 6000000)
+    doRotation(center_lat, center_lon, 150, 6000000)
     
 def cleanMainKML():
     command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \
