@@ -117,9 +117,9 @@ def getCenterOfRegion(region):
 
 def flyToRegion(region):
     center_lat, center_lon = getCenterOfRegion(region)
-    sendFlyToToLG(center_lat, center_lon, 150, 0, 0, 6000000, 2)
+    sendFlyToToLG(center_lat, center_lon, 150, 0, 0, 600, 2)
     sleep(4)
-    doRotation(center_lat, center_lon, 150, 6000000)
+    doRotation(center_lat, center_lon, 150, 600)
     
 def cleanMainKML():
     command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \

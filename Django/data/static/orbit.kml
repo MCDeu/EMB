@@ -10,11 +10,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>0</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -24,11 +24,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>10</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -38,11 +38,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>20</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -52,11 +52,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>30</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -66,11 +66,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>40</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -80,11 +80,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>50</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -94,11 +94,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>60</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -108,11 +108,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>70</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -122,11 +122,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>80</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -136,11 +136,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>90</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -150,11 +150,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>100</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -164,11 +164,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>110</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -178,11 +178,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>120</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -192,11 +192,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>130</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -206,11 +206,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>140</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -220,11 +220,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>150</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -234,11 +234,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>160</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -248,11 +248,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>170</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -262,11 +262,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>180</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -276,11 +276,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>190</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -290,11 +290,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>200</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -304,11 +304,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>210</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -318,11 +318,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>220</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -332,11 +332,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>230</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -346,11 +346,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>240</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -360,11 +360,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>250</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -374,11 +374,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>260</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -388,11 +388,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>270</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -402,11 +402,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>280</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -416,11 +416,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>290</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -430,11 +430,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>300</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -444,11 +444,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>310</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -458,11 +458,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>320</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -472,11 +472,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>330</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -486,11 +486,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>340</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -500,11 +500,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>350</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -514,11 +514,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>360</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -528,11 +528,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>370</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -542,11 +542,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>380</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -556,11 +556,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>390</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -570,11 +570,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>400</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -584,11 +584,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>410</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -598,11 +598,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>420</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -612,11 +612,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>430</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -626,11 +626,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>440</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -640,11 +640,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>450</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -654,11 +654,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>460</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -668,11 +668,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>470</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -682,11 +682,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>480</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -696,11 +696,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>490</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -710,11 +710,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>500</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -724,11 +724,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>510</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -738,11 +738,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>520</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -752,11 +752,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>530</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -766,11 +766,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>540</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -780,11 +780,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>550</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -794,11 +794,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>560</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -808,11 +808,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>570</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -822,11 +822,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>580</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -836,11 +836,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>590</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -850,11 +850,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>600</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -864,11 +864,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>610</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -878,11 +878,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>620</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -892,11 +892,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>630</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -906,11 +906,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>640</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -920,11 +920,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>650</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -934,11 +934,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>660</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -948,11 +948,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>670</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -962,11 +962,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>680</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -976,11 +976,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>690</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -990,11 +990,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>700</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1004,11 +1004,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>710</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1018,11 +1018,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>720</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1032,11 +1032,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>730</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1046,11 +1046,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>740</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1060,11 +1060,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>750</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1074,11 +1074,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>760</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1088,11 +1088,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>770</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1102,11 +1102,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>780</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1116,11 +1116,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>790</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1130,11 +1130,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>800</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1144,11 +1144,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>810</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1158,11 +1158,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>820</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1172,11 +1172,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>830</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1186,11 +1186,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>840</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1200,11 +1200,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>850</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1214,11 +1214,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>860</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1228,11 +1228,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>870</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1242,11 +1242,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>880</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1256,11 +1256,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>890</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1270,11 +1270,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>900</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1284,11 +1284,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>910</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1298,11 +1298,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>920</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1312,11 +1312,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>930</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1326,11 +1326,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>940</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1340,11 +1340,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>950</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1354,11 +1354,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>960</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1368,11 +1368,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>970</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1382,11 +1382,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>980</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1396,11 +1396,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>990</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1410,11 +1410,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1000</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1424,11 +1424,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1010</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1438,11 +1438,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1020</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1452,11 +1452,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1030</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1466,11 +1466,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1040</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1480,11 +1480,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1050</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1494,11 +1494,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1060</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1508,11 +1508,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1070</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1522,11 +1522,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1080</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1536,11 +1536,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1090</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1550,11 +1550,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1100</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1564,11 +1564,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1110</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1578,11 +1578,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1120</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1592,11 +1592,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1130</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1606,11 +1606,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1140</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1620,11 +1620,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1150</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1634,11 +1634,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1160</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1648,11 +1648,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1170</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1662,11 +1662,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1180</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1676,11 +1676,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1190</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1690,11 +1690,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1200</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1704,11 +1704,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1210</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1718,11 +1718,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1220</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1732,11 +1732,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1230</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1746,11 +1746,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1240</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1760,11 +1760,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1250</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1774,11 +1774,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1260</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1788,11 +1788,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1270</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1802,11 +1802,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1280</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1816,11 +1816,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1290</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1830,11 +1830,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1300</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1844,11 +1844,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1310</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1858,11 +1858,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1320</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1872,11 +1872,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1330</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1886,11 +1886,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1340</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1900,11 +1900,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1350</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1914,11 +1914,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1360</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1928,11 +1928,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1370</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1942,11 +1942,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1380</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1956,11 +1956,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1390</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1970,11 +1970,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1400</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1984,11 +1984,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1410</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -1998,11 +1998,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1420</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
@@ -2012,11 +2012,11 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<LookAt>
 				<longitude>-46.78111634147689</longitude>
 				<latitude>-23.59393814020231</latitude>
-				<altitude>15000</altitude>
+				<altitude>150</altitude>
 				<heading>1430</heading>
 				<tilt>5</tilt>
 				<gx:fovy>35</gx:fovy>
-				<range>6000000</range>
+				<range>600</range>
 				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
 			</LookAt>
 		</gx:FlyTo>
