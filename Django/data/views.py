@@ -48,6 +48,7 @@ def select(request):
             run_select(request)
         if request.POST.get("Stop") == "Stop":
             stopOrbit()
+            resetView()
 
     return render(request, 'select.html', {})
     
@@ -70,11 +71,9 @@ def run_select(request):
     date = GetDate(day,hour,minute)
     coordinates = GetCoordinatesFromId(id_station)
     regions = coordinates.split()
-    region = regions[0]
-    print(region)
     data = GetDataFromId(id_station,date)
     
     CreateKML(data, coordinates)
     
     sendKmlToLGCommon(global_vars.kml_destination_filename)
-    flyToRegion(region)
+    flyToRegion(regions)

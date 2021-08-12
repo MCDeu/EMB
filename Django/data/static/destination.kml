@@ -4,29 +4,30 @@
       <name>Weather</name>
       <ExtendedData>
         <Data name="Temperature:">
-          <value>15</value>
+          <value>17</value>
         </Data>
         <Data name="Pressure:">
-          <value>100884</value>
+          <value>103101</value>
         </Data>
         <Data name="Precipitation:">
-          <value>2</value>
+          <value>0</value>
         </Data>
         <Data name="Humidity:">
-          <value>87</value>
+          <value>45</value>
         </Data>
         <Data name="Wind speed:">
-          <value>3</value>
+          <value>10</value>
         </Data>
         <Data name="Wind direction:">
-          <value>S</value>
+          <value>NO</value>
         </Data>
       </ExtendedData>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>0.6319690811210660,41.59547909097990 0.6315369831952267,41.594824528186 0.6327479275134462,41.59434741863209 0.6332509441594025,41.59506471695525 0.6319690811210660,41.59547909097990 </coordinates>
+            <coordinates>-46.78111634147689,-23.59393814020231 -46.78261005616155,-23.59562932278232 -46.78210681119049,-23.59612281299078 -46.7806142836729,-23.59418262692097 -46.78111634147689,-23.59393814020231 </coordinates>
           </LinearRing>
+          <extrude>1</extrude>
           <altitudeMode>relativeToGround</altitudeMode>
         </outerBoundaryIs>
       </Polygon>
@@ -36,6 +37,7 @@
         </BalloonStyle>
         <PolyStyle>
           <color>ff0000ff</color>
+          <outline>10</outline>
         </PolyStyle>
       </Style>
       <gx:balloonVisibility>1</gx:balloonVisibility>

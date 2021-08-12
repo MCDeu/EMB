@@ -113,20 +113,23 @@ def doRotation(latitude, longitude, altitude, pRange):
     startOrbit()
     
 def getCenterOfRegion(region):
-    regions = region.split(',')
-    lon = regions[0]
-    lat = regions[1]
-    return lat, lon    
+    lon = 0
+    lat = 0
+    for x in region:
+        y = x.split(',')
+        lon = lon + float(y[0])
+        lat = lat + float(y[1])
+    return lat/len(region), lon/len(region)    
 
 def flyToRegion(region):
     center_lat, center_lon = getCenterOfRegion(region)
-    sendFlyToToLG(center_lat, center_lon, 150, 0, 0, 600, 2)
-    sleep(4)
+    sendFlyToToLG(center_lat, center_lon, 150, 0, 45, 600, 2)
+    sleep(6)
     doRotation(center_lat, center_lon, 150, 600)
     
 def cleanMainKML():
     command = "sshpass -p " + str(global_vars.lg_pass) + " ssh " + str(global_vars.lg_IP) \
-        + " \"echo '' > /var/www/html/kmls.txt\""
+        + " \"echo ' \n' > /var/www/html/kmls.txt\""
     os.system(command)
 
 def cleanSecundaryKML():

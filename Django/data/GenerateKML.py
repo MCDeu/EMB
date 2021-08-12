@@ -40,6 +40,7 @@ def CreateKML(data, coordiantes):
                     KML.LinearRing(
                         KML.coordinates(coordiantes)
                     ),
+                    KML.extrude(1),
                     KML.altitudeMode("relativeToGround")
                 )
             ),
@@ -48,7 +49,8 @@ def CreateKML(data, coordiantes):
                     KML.bgColor("ff88F452")
                 ),
                 KML.PolyStyle(
-                    KML.color("ff0000ff")
+                    KML.color("ff0000ff"),
+                    KML.outline(10)
                 )
             ),
             GX.balloonVisibility(1)
