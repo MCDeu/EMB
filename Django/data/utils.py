@@ -106,7 +106,7 @@ def stopOrbit():
     os.system(command)
 
 def doRotation(latitude, longitude, altitude, pRange):
-    kml = createRotation(latitude, longitude, altitude, 5, pRange)
+    kml = createRotation(latitude, longitude, altitude, 45, pRange)
     generateOrbitFile(kml, global_vars.kml_destination_path + '/orbit.kml')
     sendOrbitToLG()
     sleep(1)
@@ -162,5 +162,5 @@ def setLogo():
     os.system(command)
 
 def resetView():
-    sendFlyToToLG(40.77, -3.6, 0, 0, 5, 10000000, 1.2)
+    sendFlyToToLG(40.77, -3.6, 150, 0, 5, 10000000, 1.2)
     setLogo()
