@@ -47,7 +47,7 @@ def select(request):
         if request.POST.get("Submit") == "Submit":
             run_select(request)
         if request.POST.get("Stop") == "Stop":
-            stop_thread()
+            stopOrbit()
 
     return render(request, 'select.html', {})
     

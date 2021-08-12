@@ -7,19 +7,19 @@
           <value>17</value>
         </Data>
         <Data name="Pressure:">
-          <value>99003</value>
+          <value>103101</value>
         </Data>
         <Data name="Precipitation:">
-          <value>10</value>
+          <value>0</value>
         </Data>
         <Data name="Humidity:">
-          <value>66</value>
+          <value>45</value>
         </Data>
         <Data name="Wind speed:">
-          <value>9</value>
+          <value>10</value>
         </Data>
         <Data name="Wind direction:">
-          <value>SO</value>
+          <value>NO</value>
         </Data>
       </ExtendedData>
       <Polygon>

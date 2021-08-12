@@ -7,7 +7,8 @@ def LoadConfigFile():
     config.read(configFilePath)
 
     global_vars.kml_destination_path = config['FILES']['kml_destination_path']
-    global_vars.kml_destination_filename = config['FILES']['kml_destination_file']
+    global_vars.kml_destination_filename = config['FILES']['kml_destination_file']  
+    global_vars.kml_orbit_filename = config['FILES']['kml_orbit_file']  
     global_vars.image_destination_path = config['FILES']['image_destination_path']
 
     global_vars.number_of_clusters = int(config['KML']['number_of_clusters'])

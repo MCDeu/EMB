@@ -1,5 +1,6 @@
 kml_destination_path = ''
 kml_destination_filename = ''
+kml_orbit_filename = ''
 image_destination_path = ''
 
 number_of_clusters = 0

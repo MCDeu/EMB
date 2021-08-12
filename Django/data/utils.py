@@ -22,9 +22,11 @@ def sendKmlToLG(main, slave):
     print(command)
     os.system(command)
 
+
     msg = "http:\/\/" + global_vars.lg_IP + ":81\/\EEMB\/" + global_vars.kml_destination_filename.replace("/", "\/") + "?id=" + str(int(time()*100))
     command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \
         + " \"sed -i \'1s/.*/" + msg + "/\' /var/www/html/kmls.txt\""
+        
     print(command)
     os.system(command)
 
@@ -85,10 +87,11 @@ def sendOrbitToLG():
         + "EMB/Django/" + global_vars.kml_destination_path + "orbit.kml " + global_vars.lg_IP + ":/var/www/html/EMB/orbit.kml"
     print(command)
     os.system(command)
-
+        
+    msg = "http:\/\/" + global_vars.lg_IP + ":81\/\EEMB\/" + global_vars.kml_orbit_filename.replace("/", "\/") + "?id=" + str(int(time()*100))
     command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \
-        + " \"echo http://" + global_vars.lg_IP + ":81/EMB/orbit.kml?id=" + str(int(time()*100)) \
-        + " >> /var/www/html/kmls.txt\""
+       + " \"sed -i \'2s/.*/" + msg + "/\' /var/www/html/kmls.txt\""
+        
     print(command)
     os.system(command)
 
@@ -122,7 +125,7 @@ def flyToRegion(region):
     doRotation(center_lat, center_lon, 150, 600)
     
 def cleanMainKML():
-    command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \
+    command = "sshpass -p " + str(global_vars.lg_pass) + " ssh " + str(global_vars.lg_IP) \
         + " \"echo '' > /var/www/html/kmls.txt\""
     os.system(command)
 
