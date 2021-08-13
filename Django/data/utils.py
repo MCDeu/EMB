@@ -50,6 +50,11 @@ def sendFlyToToLG(lat, lon, altitude, heading, tilt, pRange, duration):
     print(command)
     os.system(command)
 
+def removeEMBFolder():
+    command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \
+        + " rm -rf /var/www/html/EMB"
+    os.system(command)
+
 def createRotation(lat, lon, alt, tilt, range1, range2):
     xml = '<?xml version="1.0" encoding="UTF-8"?>'
     xml += '\n'+'<kml xmlns="http://www.opengis.net/kml/2.2"'
