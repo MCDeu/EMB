@@ -133,8 +133,8 @@ def flyToRegion(region, range2):
     doRotation(center_lat, center_lon, 150, 600, range2)
     
 def cleanMainKML():
-    command = "sshpass -p " + str(global_vars.lg_pass) + " ssh " + str(global_vars.lg_IP) \
-        + " \"echo ' \n' > /var/www/html/kmls.txt\""
+    command = "sshpass -p " + global_vars.lg_pass + " ssh " + global_vars.lg_IP \
+        + " \"echo ' \n ' > /var/www/html/kmls.txt\""
     os.system(command)
 
 def cleanSecundaryKML():
