@@ -2,7 +2,7 @@
   <Document>
     <Placemark>
       <name>Weather</name>
-      <text>
+      <ExtendedData>
         <Data name="Temperature:">
           <value>12</value>
         </Data>
@@ -21,7 +21,7 @@
         <Data name="Wind direction:">
           <value>E</value>
         </Data>
-      </text>
+      </ExtendedData>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -33,26 +33,6 @@
       </Polygon>
       <Style>
         <BalloonStyle>
-		  <text>
-			<Data name="Temperature:">
-			  <value>12</value>
-			</Data>
-			<Data name="Pressure:">
-			  <value>101545</value>
-			</Data>
-			<Data name="Precipitation:">
-			  <value>0</value>
-			</Data>
-			<Data name="Humidity:">
-			  <value>67</value>
-			</Data>
-			<Data name="Wind speed:">
-			  <value>16</value>
-			</Data>
-			<Data name="Wind direction:">
-			  <value>E</value>
-			</Data>
-		  </text>
           <bgColor>ff88F452</bgColor>
         </BalloonStyle>
         <PolyStyle>

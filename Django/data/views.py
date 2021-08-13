@@ -94,4 +94,4 @@ def run_demo(request):
         CreateKML(data, coordinates)
         sendKmlToLGCommon(global_vars.kml_destination_filename)
         flyToRegion(regions, 360)
-        sleep(20)
+        sleep(18.2)
