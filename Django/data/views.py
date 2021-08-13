@@ -1,3 +1,4 @@
+from time import sleep, time
 from django.shortcuts import render
 from rest_framework import generics
 from rest_framework.views import APIView
@@ -52,16 +53,6 @@ def select(request):
 
     return render(request, 'select.html', {})
     
-def demo(request):
-    LoadConfigFile()
-    if request.method == 'POST':
-        if request.POST.get("Submit") == "Submit":
-            run_select(request)
-        if request.POST.get("Stop") == "Stop":
-            stop_thread()
-
-    return render(request, 'demo.html', {})
-
 def run_select(request):
     id_station=request.POST.get('Id_Station')
     day=request.POST.get('Day')
@@ -77,3 +68,27 @@ def run_select(request):
     
     sendKmlToLGCommon(global_vars.kml_destination_filename)
     flyToRegion(regions)
+    
+def demo(request):
+    LoadConfigFile()
+    if request.method == 'POST':
+        if request.POST.get("Submit") == "Submit":
+            run_demo(request)
+        if request.POST.get("Stop") == "Stop":
+            stop_thread()
+
+    return render(request, 'demo.html', {})
+
+def run_demo(request):
+    id_station=['01000001', '01001001', '01011000', '01000000', '00100001', '00100011, 01010111, 01100000, 01100001]
+    
+    date = "2021-05-01 00:00:00"
+    
+    for x in id_station:
+        coordinates = GetCoordinatesFromId(x)
+        regions = coordinates.split()
+        data = GetDataFromId(id_station,date)
+    
+        CreateKML(data, coordinates)
+        sendKmlToLGCommon(global_vars.kml_destination_filename)
+        sleep(4.4)
