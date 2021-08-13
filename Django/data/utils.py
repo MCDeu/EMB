@@ -50,22 +50,22 @@ def sendFlyToToLG(lat, lon, altitude, heading, tilt, pRange, duration):
     print(command)
     os.system(command)
 
-def createRotation(lat, lon, alt, tilt, range1):
+def createRotation(lat, lon, alt, tilt, range1, range2):
     xml = '<?xml version="1.0" encoding="UTF-8"?>'
     xml += '\n'+'<kml xmlns="http://www.opengis.net/kml/2.2"'
     xml += '\n'+'xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">'
     xml += '\n'+'<gx:Tour>'
     xml += '\n\t'+'<name>Orbit</name>'
     xml += '\n\t'+'<gx:Playlist>'
-    for i in range(0,1440,10):
+    for i in range(0,range2,10):
         xml += '\n\t\t'+'<gx:FlyTo>'
-        xml += '\n\t\t\t'+'<gx:duration>1.2</gx:duration>'
+        xml += '\n\t\t\t'+'<gx:duration>0.5</gx:duration>'
         xml += '\n\t\t\t'+'<gx:flyToMode>smooth</gx:flyToMode>'
         xml += '\n\t\t\t'+'<LookAt>'
         xml += '\n\t\t\t\t'+'<longitude>'+str(lon)+'</longitude>'
         xml += '\n\t\t\t\t'+'<latitude>'+str(lat)+'</latitude>'
         xml += '\n\t\t\t\t'+'<altitude>'+str(alt)+'</altitude>'
-        xml += '\n\t\t\t\t'+'<heading>'+str(i)+'</heading>'
+        xml += '\n\t\t\t\t'+'<heading>'+str(i%360)+'</heading>'
         xml += '\n\t\t\t\t'+'<tilt>'+str(tilt)+'</tilt>'
         xml += '\n\t\t\t\t'+'<gx:fovy>35</gx:fovy>'
         xml += '\n\t\t\t\t'+'<range>'+str(range1)+'</range>'
@@ -105,8 +105,8 @@ def stopOrbit():
     print(command)
     os.system(command)
 
-def doRotation(latitude, longitude, altitude, pRange):
-    kml = createRotation(latitude, longitude, altitude, 45, pRange)
+def doRotation(latitude, longitude, altitude, pRange, range2):
+    kml = createRotation(latitude, longitude, altitude, 45, pRange, range2)
     generateOrbitFile(kml, global_vars.kml_destination_path + '/orbit.kml')
     sendOrbitToLG()
     sleep(1)
@@ -121,11 +121,11 @@ def getCenterOfRegion(region):
         lat = lat + float(y[1])
     return lat/len(region), lon/len(region)    
 
-def flyToRegion(region):
+def flyToRegion(region, range2):
     center_lat, center_lon = getCenterOfRegion(region)
     sendFlyToToLG(center_lat, center_lon, 150, 0, 45, 600, 2)
     sleep(6)
-    doRotation(center_lat, center_lon, 150, 600)
+    doRotation(center_lat, center_lon, 150, 600, range2)
     
 def cleanMainKML():
     command = "sshpass -p " + str(global_vars.lg_pass) + " ssh " + str(global_vars.lg_IP) \

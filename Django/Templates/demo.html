@@ -15,7 +15,9 @@
         </div>
     </div>
     <div class="center">
-    	<input type="submit" value="Play Demo" name="Demo">
+	    <form action="{% url 'demo' %}" method="POST" id="formKML" name="GenerateDemo" onsubmit="return onSubmit();">
+    	{% csrf_token %}
+		<input type="submit" value="Submit" name="Submit">
   	</div>
 	</body>
 </html>		

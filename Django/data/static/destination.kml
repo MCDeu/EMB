@@ -2,30 +2,30 @@
   <Document>
     <Placemark>
       <name>Weather</name>
-      <ExtendedData>
+      <text>
         <Data name="Temperature:">
-          <value>17</value>
+          <value>12</value>
         </Data>
         <Data name="Pressure:">
-          <value>103101</value>
+          <value>101545</value>
         </Data>
         <Data name="Precipitation:">
           <value>0</value>
         </Data>
         <Data name="Humidity:">
-          <value>45</value>
+          <value>67</value>
         </Data>
         <Data name="Wind speed:">
-          <value>10</value>
+          <value>16</value>
         </Data>
         <Data name="Wind direction:">
-          <value>NO</value>
+          <value>E</value>
         </Data>
-      </ExtendedData>
+      </text>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
-            <coordinates>-46.78111634147689,-23.59393814020231 -46.78261005616155,-23.59562932278232 -46.78210681119049,-23.59612281299078 -46.7806142836729,-23.59418262692097 -46.78111634147689,-23.59393814020231 </coordinates>
+            <coordinates>141.3361193235152,43.07779261653624 141.3327126483805,43.07612247218059 141.3338938173467,43.07476494257998 141.3373464699531,43.076389547372 141.3361193235152,43.07779261653624 </coordinates>
           </LinearRing>
           <extrude>1</extrude>
           <altitudeMode>relativeToGround</altitudeMode>
@@ -33,6 +33,26 @@
       </Polygon>
       <Style>
         <BalloonStyle>
+		  <text>
+			<Data name="Temperature:">
+			  <value>12</value>
+			</Data>
+			<Data name="Pressure:">
+			  <value>101545</value>
+			</Data>
+			<Data name="Precipitation:">
+			  <value>0</value>
+			</Data>
+			<Data name="Humidity:">
+			  <value>67</value>
+			</Data>
+			<Data name="Wind speed:">
+			  <value>16</value>
+			</Data>
+			<Data name="Wind direction:">
+			  <value>E</value>
+			</Data>
+		  </text>
           <bgColor>ff88F452</bgColor>
         </BalloonStyle>
         <PolyStyle>

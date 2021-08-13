@@ -67,12 +67,14 @@ def run_select(request):
     CreateKML(data, coordinates)
     
     sendKmlToLGCommon(global_vars.kml_destination_filename)
-    flyToRegion(regions)
+    flyToRegion(regions, 1440)
     
 def demo(request):
     LoadConfigFile()
     if request.method == 'POST':
+        print("Metod post")
         if request.POST.get("Submit") == "Submit":
+            print("run_demo starts")
             run_demo(request)
         if request.POST.get("Stop") == "Stop":
             stop_thread()
@@ -80,15 +82,16 @@ def demo(request):
     return render(request, 'demo.html', {})
 
 def run_demo(request):
-    id_station=['01000001', '01001001', '01011000', '01000000', '00100001', '00100011, 01010111, 01100000, 01100001]
+    id_station=['01000001', '01001001', '01011000', '01000000', '00100001', '00100011', '01010111', '01100000', '01100001']
     
     date = "2021-05-01 00:00:00"
     
     for x in id_station:
         coordinates = GetCoordinatesFromId(x)
         regions = coordinates.split()
-        data = GetDataFromId(id_station,date)
+        data = GetDataFromId(x,date)
     
         CreateKML(data, coordinates)
         sendKmlToLGCommon(global_vars.kml_destination_filename)
-        sleep(4.4)
+        flyToRegion(regions, 360)
+        sleep(20)
