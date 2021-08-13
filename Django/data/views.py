@@ -50,6 +50,7 @@ def select(request):
         if request.POST.get("Stop") == "Stop":
             stopOrbit()
             resetView()
+            cleanSecundaryKML()
 
     return render(request, 'select.html', {})
     
