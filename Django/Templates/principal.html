@@ -9,26 +9,42 @@
       <title>Electronics Monitor Board - PRINCIPAL</title>
   </head>
   <body>
-      <div class="header">
-          <div class="head_logo">
-              <img src="{% static 'Logos.png' %}" class="logo">
-          </div>
-      </div>
+		<div class="header">
+		  <div class="head_logo">
+			  <img src="{% static 'Logos.png' %}" class="logo">
+		  </div>
+		</div>
 		
-		<form action="{% url 'select' %}">
-			<button onclick="window.location.href='http://localhost:8000/api/select/';">
-			  SELECT
-			</button>
-		</form>
-		<form action="{% url 'demo' %}">
-			<button onclick="http://localhost:8000/api/demo/">
-			  DEMO
-			</button>
-		</form>
-		<form action="{% url 'principal' %}" method="POST" id="formKML" name="CleanKML" onsubmit="return onSubmit();">
-			{% csrf_token %}
-			<input type="submit" value="Clean" name="Clean">
-			<input type="submit" value="Stop" name="Stop">
-		</form>
+		<br></br>
+		<div class="container">
+			<div class="center">
+				<form action="{% url 'select' %}">
+					<button onclick="window.location.href='http://localhost:8000/api/select/';">
+					  SELECT
+					</button>
+				</form>
+			</div>
+		</div>
+		<br></br>
+		<div class="container">
+			<div class="center">
+				<form action="{% url 'demo' %}">
+					<button onclick="http://localhost:8000/api/demo/">
+					  DEMO
+					</button>
+				</form>
+			</div>
+		</div>
+		<br></br>
+		<br></br>
+		<div class="container">
+			<div class="center">
+				<form action="{% url 'principal' %}" method="POST" id="formKML" name="CleanKML" onsubmit="return onSubmit();">
+					{% csrf_token %}
+					<input type="submit" value="Clean" name="Clean">
+					<input type="submit" value="Stop" name="Stop">
+				</form>
+			</div>
+		</div>
 	</body>
 </html>

@@ -14,10 +14,15 @@
                 <a href="/"><img src="{% static 'Logos.png' %}" class="logo"></a>
         </div>
     </div>
-    <div class="center">
-	    <form action="{% url 'demo' %}" method="POST" id="formKML" name="GenerateDemo" onsubmit="return onSubmit();">
-    	{% csrf_token %}
-		<input type="submit" value="Submit" name="Submit">
-  	</div>
+	<br></br>
+	<div class="container">
+		<div class="center">
+			<div class="center">
+				<form action="{% url 'demo' %}" method="POST" id="formKML" name="GenerateDemo" onsubmit="return onSubmit();">
+				{% csrf_token %}
+				<input type="submit" value="Submit" name="Submit">
+			</div>
+		</div>
+	</div>
 	</body>
 </html>		
