@@ -8,8 +8,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>0</heading>
 				<tilt>45</tilt>
@@ -22,8 +22,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>10</heading>
 				<tilt>45</tilt>
@@ -36,8 +36,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>20</heading>
 				<tilt>45</tilt>
@@ -50,8 +50,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>30</heading>
 				<tilt>45</tilt>
@@ -64,8 +64,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>40</heading>
 				<tilt>45</tilt>
@@ -78,8 +78,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>50</heading>
 				<tilt>45</tilt>
@@ -92,8 +92,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>60</heading>
 				<tilt>45</tilt>
@@ -106,8 +106,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>70</heading>
 				<tilt>45</tilt>
@@ -120,8 +120,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>80</heading>
 				<tilt>45</tilt>
@@ -134,8 +134,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>90</heading>
 				<tilt>45</tilt>
@@ -148,8 +148,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>100</heading>
 				<tilt>45</tilt>
@@ -162,8 +162,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>110</heading>
 				<tilt>45</tilt>
@@ -176,8 +176,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>120</heading>
 				<tilt>45</tilt>
@@ -190,8 +190,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>130</heading>
 				<tilt>45</tilt>
@@ -204,8 +204,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>140</heading>
 				<tilt>45</tilt>
@@ -218,8 +218,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>150</heading>
 				<tilt>45</tilt>
@@ -232,8 +232,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>160</heading>
 				<tilt>45</tilt>
@@ -246,8 +246,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>170</heading>
 				<tilt>45</tilt>
@@ -260,8 +260,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>180</heading>
 				<tilt>45</tilt>
@@ -274,8 +274,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>190</heading>
 				<tilt>45</tilt>
@@ -288,8 +288,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>200</heading>
 				<tilt>45</tilt>
@@ -302,8 +302,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>210</heading>
 				<tilt>45</tilt>
@@ -316,8 +316,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>220</heading>
 				<tilt>45</tilt>
@@ -330,8 +330,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>230</heading>
 				<tilt>45</tilt>
@@ -344,8 +344,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>240</heading>
 				<tilt>45</tilt>
@@ -358,8 +358,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>250</heading>
 				<tilt>45</tilt>
@@ -372,8 +372,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>260</heading>
 				<tilt>45</tilt>
@@ -386,8 +386,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>270</heading>
 				<tilt>45</tilt>
@@ -400,8 +400,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>280</heading>
 				<tilt>45</tilt>
@@ -414,8 +414,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>290</heading>
 				<tilt>45</tilt>
@@ -428,8 +428,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>300</heading>
 				<tilt>45</tilt>
@@ -442,8 +442,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>310</heading>
 				<tilt>45</tilt>
@@ -456,8 +456,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>320</heading>
 				<tilt>45</tilt>
@@ -470,8 +470,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>330</heading>
 				<tilt>45</tilt>
@@ -484,8 +484,8 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>340</heading>
 				<tilt>45</tilt>
@@ -498,8 +498,1520 @@ xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/k
 			<gx:duration>0.5</gx:duration>
 			<gx:flyToMode>smooth</gx:flyToMode>
 			<LookAt>
-				<longitude>0.6322948034220415</longitude>
-				<latitude>41.59503896914663</latitude>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>350</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>10</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>20</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>30</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>40</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>50</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>60</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>70</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>80</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>90</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>100</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>110</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>120</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>130</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>140</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>150</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>160</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>170</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>180</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>190</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>200</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>210</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>220</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>230</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>240</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>250</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>260</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>270</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>280</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>290</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>300</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>310</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>320</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>330</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>340</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>350</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>10</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>20</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>30</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>40</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>50</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>60</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>70</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>80</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>90</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>100</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>110</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>120</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>130</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>140</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>150</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>160</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>170</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>180</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>190</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>200</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>210</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>220</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>230</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>240</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>250</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>260</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>270</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>280</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>290</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>300</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>310</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>320</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>330</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>340</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>350</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>0</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>10</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>20</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>30</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>40</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>50</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>60</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>70</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>80</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>90</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>100</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>110</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>120</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>130</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>140</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>150</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>160</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>170</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>180</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>190</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>200</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>210</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>220</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>230</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>240</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>250</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>260</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>270</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>280</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>290</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>300</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>310</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>320</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>330</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
+				<altitude>150</altitude>
+				<heading>340</heading>
+				<tilt>45</tilt>
+				<gx:fovy>35</gx:fovy>
+				<range>600</range>
+				<gx:altitudeMode>relativeToGround</gx:altitudeMode>
+			</LookAt>
+		</gx:FlyTo>
+		<gx:FlyTo>
+			<gx:duration>0.5</gx:duration>
+			<gx:flyToMode>smooth</gx:flyToMode>
+			<LookAt>
+				<longitude>-46.78151276679574</longitude>
+				<latitude>-23.594762208619738</latitude>
 				<altitude>150</altitude>
 				<heading>350</heading>
 				<tilt>45</tilt>
