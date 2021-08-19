@@ -1,4 +1,4 @@
-# EMB
+# Electronic Monitor Board
 
 ## __Google Summer Of Code 2021__
 
