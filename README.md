@@ -1,4 +1,4 @@
-# Electronic Monitor Board
+# Electronics Monitor Board
 
 ## __Google Summer Of Code 2021__
 
