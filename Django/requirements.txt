@@ -1,0 +1,6 @@
+django_filter==2.4.0
+django_tables2==2.4.0
+lxml==4.6.3
+pykml==0.2.0
+Django==3.2.6
+djangorestframework==3.12.4
