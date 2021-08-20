@@ -20,12 +20,12 @@
 
 #define ID_Arduino  "10000010"
 
-//This URL is use for post data to tlink (s'ha de canvair, depèn del túnel)
+//This URL is use for post data
 #define POSTURL "7b6d7bf6ca6f.ngrok.io/api/dades/update/"
 
 // Vbles control parades
 int i = 0;
-int valor_max = 144; // Cada 30 min. 144    Cada 2 min. 9
+int valor_max = 144; // Every 30 min. 144    Every 2 min. 9
 int stops = 0;
 
 SoftwareSerial     mySerial(PIN_RX, PIN_TX);
@@ -37,16 +37,16 @@ BME   bme(&Wire, 0x76);
 
 void (*resetFunc)(void) = 0;
 
-// PINs de connexió Arduino MEGA
+// PINs of Arduino MEGA connexion
 const byte wind = 41;
 const byte water = 2;
 int vane =  A13;
 
-// Vbles pluviometre  G i R (Un al negatiu)
+// Vbles pluviomether  G i R (One to positive)
 const float waterIncrease = 0.2794;
 float waterQuantity = 0;
 
-// Vbles anemòmetre   N i G
+// Vbles aneomether   N i G
 unsigned long t;
 float tIncrease = 5000;
 float cont = 0;
@@ -54,14 +54,14 @@ float contAnt = 0;
 float sample = 0;
 float rFactor = 2.4;
 float wSpeed = 0;
-// N a positiu, G pota positiva resistencia
-// connexió amb sèrie, cable a arduino per allà
+// N to positive, G to resistor's positive
+// series connexion, arduino wire there
 
-// Vbles penell     V i R
+// Vbles vane     V i R
 float volt = 235;
 String wDirection = "N";
-// V a positiu, R pota positiva resistencia
-// connexió amb sèrie, cable a arduino per allà
+// V to pistive, R to resistor's positive
+// series connexion, arduino wire there
 
 
 void SIM() {
@@ -172,7 +172,7 @@ void SIM() {
   doc["wind_speed"] = String(wSpeed);
   doc["wind_direction"] = wDirection;
 
-  serializeJsonPretty(doc, httpbuff);   // Obtenció del JSON en l'string output
+  serializeJsonPretty(doc, httpbuff);   // JSON in l'string output
   Serial.print(httpbuff);
 
   while (1) {
@@ -216,7 +216,7 @@ void windSpeed() {
   wSpeed = sample * 1000 * rFactor / tIncrease;
 }
 
-void windDirection() { // en Nord el senyala el pluviomentre
+void windDirection() { // pluviomether point at north
   volt = analogRead(vane);
   if (volt > 230 && volt < 245) {
     wDirection = "N";
